@@ -8,7 +8,7 @@
 
 <a href="https://github.com/raja-raman3">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:090014,35:1A0633,65:4C1D95,100:7C3AED&text=RAJA%20RAMAN%20G&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%20%E2%80%A2%20%20CYBER%20SECURITY%20%20%E2%80%A2%20%20TECH%20BUILDER&descSize=18&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:090014,35:1A0633,65:4C1D95,100:7C3AED&text=SABARISH%20A&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%20%E2%80%A2%20%20CYBER%20SECURITY%20%20%E2%80%A2%20%20TECH%20BUILDER&descSize=18&descAlignY=60&animation=fadeIn"/>
 
 </a>
 
@@ -29,11 +29,11 @@
 <img src="https://img.shields.io/badge/GitHub-RAJA--RAMAN3-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/raja-raman-g-a2723a352">
-<img src="https://img.shields.io/badge/LinkedIn-RAJA%20RAMAN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sabarish-a-604b50351">
+<img src="https://img.shields.io/badge/LinkedIn-SABARISH%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:rajaramansekaran2006@gmail.com">
+<a href="mailto:sabarishanandan06@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -65,7 +65,7 @@
 <tr>
 <td width="55%" valign="top">
 
-## 👨‍💻 RAJA RAMAN G
+## 👨‍💻 SABARISH A
 
 ```text
 ┌───────────────────────────────────────┐
@@ -107,7 +107,7 @@ My long-term direction is to become an **AI Engineer & Cyber Security Profession
 
 <div align="center">
 
-### `01` THINK   →   `02` BUILD   →   `03` TEST   →   `04` SECURE   →   `05` IMPROVE
+### `01` THINK   →   `02` BUILD   →   `03` TEST   →   `04` SECURE   →   `05` IMPROVE
 
 </div>
 
@@ -240,6 +240,7 @@ Innovation
 </table>
 
 <br>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -653,11 +654,11 @@ Keep evolving.
 <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/raja-raman-g-a2723a352">
+<a href="https://www.linkedin.com/in/sabarish-a-604b50351">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:rajaramansekaran2006@gmail.com">
+<a href="mailto:sabarishanandan06@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
