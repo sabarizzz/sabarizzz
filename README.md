@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/raja-raman3">
+<a href="https://github.com/sabarizzz">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:090014,35:1A0633,65:4C1D95,100:7C3AED&text=SABARISH%20A&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%20%E2%80%A2%20%20CYBER%20SECURITY%20%20%E2%80%A2%20%20TECH%20BUILDER&descSize=18&descAlignY=60&animation=fadeIn"/>
 
@@ -25,8 +25,8 @@
 
 <br><br>
 
-<a href="https://github.com/raja-raman3">
-<img src="https://img.shields.io/badge/GitHub-RAJA--RAMAN3-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/sabarizzz">
+<img src="https://img.shields.io/badge/GitHub-SABARIZZZ-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sabarish-a-604b50351">
@@ -39,7 +39,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=raja-raman3&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=sabarizzz&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS"/>
 
 </div>
 
@@ -364,41 +364,41 @@ Continuous Learning
 
 <td width="50%" valign="top">
 
-## 🏥 MEDIGUARD
+## 🎟️ EVENT MANAGEMENT SYSTEM
 
-### Smart Patient Monitoring Platform
+### Database Management System Project
 
-A digital healthcare platform focused on **smart patient monitoring and health management**.
+A **DBMS-based event management system** for organizing and managing events, with data stored and handled through a relational database.
 
 <br>
 
 **STACK**
 
-<img src="https://skillicons.dev/icons?i=python,react,flask,mysql&perline=4"/>
+<img src="https://skillicons.dev/icons?i=mysql&perline=1"/>
 
 <br><br>
 
-`Healthcare` `AI` `Web` `Monitoring`
+`DBMS` `SQL` `Event Management` `Database Design`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎓 TRIBALONE
+## 💳 CREDIT CARD FRAUD DETECTION SYSTEM
 
-### Unified Scholarship Platform
+### Java Programming Project
 
-A unified platform designed to simplify **scholarship and fellowship discovery for tribal students**.
+A **Java-based system** built to detect fraudulent credit card transactions and flag suspicious activity.
 
 <br>
 
 **STACK**
 
-<img src="https://skillicons.dev/icons?i=html,css,js&perline=3"/>
+<img src="https://skillicons.dev/icons?i=java&perline=1"/>
 
 <br><br>
 
-`Education` `Scholarship` `Web` `Social Impact`
+`Java` `Fraud Detection` `Security` `Finance`
 
 </td>
 
@@ -408,41 +408,37 @@ A unified platform designed to simplify **scholarship and fellowship discovery f
 
 <td width="50%" valign="top">
 
-## 👨‍💼 SMART EMPLOYEE
+## 📉 CUSTOMER CHURN PREDICTION
 
-### Employee Management System
+### DMT • E-Commerce / Telecom
 
-A smart HR platform designed to manage **employees and organizational workflows**.
+A **data mining project** focused on predicting customer churn in e-commerce and telecom contexts, using data mining techniques to identify at-risk customers.
 
 <br>
 
 **STACK**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=3"/>
+<img src="https://skillicons.dev/icons?i=python&perline=1"/>
 
 <br><br>
 
-`HR` `Management` `Mobile` `Firebase`
+`Data Mining` `Churn Prediction` `E-Commerce` `Telecom`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🧪 NEXT PROJECT
+## 🚗 ENHANCED DUAL AIR CUSHION
 
-### AI × Cyber Security
+### Safe Driving • AUT
 
-Building toward projects that combine **Artificial Intelligence with Cyber Security**.
+An **enhanced dual air cushion system for safe driving**, developed as an AUT project to improve occupant safety.
 
 <br>
 
 **FOCUS**
 
-<img src="https://skillicons.dev/icons?i=python,linux&perline=2"/>
-
-<br><br>
-
-`AI Security` `Threat Detection` `Automation`
+`Automotive` `Safety` `Air Cushion` `Safe Driving`
 
 </td>
 
@@ -618,17 +614,17 @@ Keep evolving.
 
 <br>
 
-<a href="https://github.com/raja-raman3">
+<a href="https://github.com/sabarizzz">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raja-raman3&show_icons=true&hide_border=true&theme=tokyonight&bg_color=090014&title_color=A78BFA&icon_color=C4B5FD&text_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sabarizzz&show_icons=true&hide_border=true&theme=tokyonight&bg_color=090014&title_color=A78BFA&icon_color=C4B5FD&text_color=FFFFFF"/>
 
 </a>
 
 <br><br>
 
-<a href="https://github.com/raja-raman3">
+<a href="https://github.com/sabarizzz">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raja-raman3&layout=compact&hide_border=true&theme=tokyonight&bg_color=090014&title_color=A78BFA&text_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarizzz&layout=compact&hide_border=true&theme=tokyonight&bg_color=090014&title_color=A78BFA&text_color=FFFFFF"/>
 
 </a>
 
@@ -650,7 +646,7 @@ Keep evolving.
 
 <br><br>
 
-<a href="https://github.com/raja-raman3">
+<a href="https://github.com/sabarizzz">
 <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
