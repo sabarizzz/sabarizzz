@@ -76,7 +76,7 @@
 │                                       │
 │   🔐 Cyber Security Enthusiast        │
 │                                       │
-│   🧠 ML / DL Explorer                 │
+│   🧠 WEB DEVLOPER                     │
 │                                       │
 │   ⚡ Technology Builder                │
 │                                       │
